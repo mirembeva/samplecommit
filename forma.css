@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin: 50px;
+    padding: 50px;
+    border: 5px solid red;
+
+}
+
+.heading2{
+    color: red;
+    text-decoration: underline;
+}
+
+.heading3{
+    color: green;
+    
+}
+
+#heading1{
+    color: indianred;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.passport{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.storyimage{
+    width: 100px;
+    height: 150px;
+    border-radius: 20px
+}
+.shape1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.shape2{
+    width: 100px;
+    height: 150px;
+    border-radius: 20px;
+    background-color: red;
+}
+
+.upperdiv{
+    display: flex;
+    justify-content: space-around;
+}
